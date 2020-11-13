@@ -1,0 +1,54 @@
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+.main-font {
+    font-family: 'Poppins', sans-serif;
+}
+.element1 {
+        top: 33rem;
+    left: -4rem;
+    z-index: -1;
+}
+.reason, .more {
+    background-color: #F5F9FF;
+}
+.growth {
+    background-color: #0025B4;
+}
+.path {
+    background: #09B1D9;
+}
+.cart {
+    background-color: #01114C;
+}
+.card-1 {
+            border-right: 0.25px solid #979797;
+
+}
+.more-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    border-radius: 19px;
+    margin-bottom: 5rem;
+    box-shadow: 2px 3px 5px rgba(0,0,0,0.2), -2px 3px 5px rgba(0,0,0,.2)
+}
+.card-container {
+    background-color: #fff;
+    box-shadow: 0 0 12px rgba(0,0,0,.3);        padding-top: 5rem;
+}
+.nav-main {
+    padding-left: 0;
+    padding-right: 0;
+}
+.hire-us {
+    background-image: url('../img/blue-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20rem;
+}
+.color-drk {
+    color: #01114C;
+}
